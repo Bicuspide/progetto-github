@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Il mio progetto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Ciao, questo è il mio progetto!</h1>
+  <script src="script.js"></script>
+</body>
+</html>
